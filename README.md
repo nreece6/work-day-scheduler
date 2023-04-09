@@ -16,6 +16,8 @@ N/A
 
 To view the page, navigate to the below we address. You should be greeted with a webpage resembling the below screenshots.
 
+https://nreece6.github.io/work-day-scheduler/
+
 Hour blocks before the current time will be gray-ed out indicating that time has passed. The current hour will be highlighted in red. Future time blocks will be green. Add calendar events by typing in the time block you wish to add the event to. Save the text with the corresponding save button. This will save to the local storage and should persist through reloads.
 
 ![alt text](assets/work-day-scheduler-1.PNG)
